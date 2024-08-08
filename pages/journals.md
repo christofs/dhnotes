@@ -629,7 +629,7 @@ qualitative or quantitative analyses. The Journal also publishes research
 notes, review articles, theoretical essays, and book reviews relevant for
 comparative research.
 
-[**Journal of Computational Literary Studies**](https://jcls.io/) (JCLS) is an international, open access, peer-reviewed online journal dedicated to all aspects of computational approaches to Literary Studies. JCLS responds to the increasing differentiation of subfields within the Digital Humanities, an ongoing process in which Computational Literary Studies has already gained considerable maturity and visibility.
+\*[**Journal of Computational Literary Studies**](https://jcls.io/) (JCLS) is an international, Diamond open access, peer-reviewed online journal dedicated to all aspects of computational approaches to Literary Studies. JCLS responds to the increasing differentiation of subfields within the Digital Humanities, an ongoing process in which Computational Literary Studies has already gained considerable maturity and visibility.
 
 [**Journal on Computing and Cultural Heritage**](http://jocch.acm.org) (JOCCH)
 publishes papers of significant and lasting value in all areas relating to the
